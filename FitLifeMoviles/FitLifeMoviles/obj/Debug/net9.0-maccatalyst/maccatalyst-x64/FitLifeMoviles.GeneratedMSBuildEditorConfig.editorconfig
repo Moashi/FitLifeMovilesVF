@@ -36,6 +36,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = FitLifeMoviles.MainPage.xa
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/monic/OneDrive/Escritorio/FTMOVILES/FitLifeMovilesVF/FitLifeMoviles/FitLifeMoviles/Pages/Login/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FitLifeMoviles.Pages.Login.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login\LoginPage.xaml
+
 [C:/Users/monic/OneDrive/Escritorio/FTMOVILES/FitLifeMovilesVF/FitLifeMoviles/FitLifeMoviles/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FitLifeMoviles.Resources.Styles.Colors.xaml

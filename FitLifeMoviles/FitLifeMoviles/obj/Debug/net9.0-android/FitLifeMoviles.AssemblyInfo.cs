@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitLifeMoviles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e3a246319ebb506d41725bf8055b7b86b72f13e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5f47725704ecdaefaf7bb3a981423a143b09eeb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitLifeMoviles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitLifeMoviles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
